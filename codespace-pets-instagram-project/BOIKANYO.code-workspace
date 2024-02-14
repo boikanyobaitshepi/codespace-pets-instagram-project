@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../BOIKANYO"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "codespace-pets-instagram-starter-project"
+	}
+}
